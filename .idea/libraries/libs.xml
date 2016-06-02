@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="libs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/MindTheGap_Phase2_Starter_15W1/libs/slf4j-android-1.5.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/MindTheGap_Phase2_Starter_15W1/libs/java-json.jar!/" />
+      <root url="jar://$PROJECT_DIR$/MindTheGap_Phase2_Starter_15W1/libs/osmbonuspack_v5.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/MindTheGap_Phase2_Starter_15W1/libs/osmdroid-android-4.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
